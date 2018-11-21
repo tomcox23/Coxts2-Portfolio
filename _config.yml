@@ -6,7 +6,23 @@ permalink:           pretty
 # Setup
 title:               Thomas Cox
 tagline:             'Portfolio'
-description:         'This is my portfolio describing my work for the semester tracker project'
+description:         'This is my portfolio describing my work for the semester tracker project
+        ,----,           
+      ,/   .`|           
+    ,`   .'  : ,----..   
+  ;    ;     //   /   \  
+.'___,/    ,'|   :     : 
+|    :     | .   |  ;. / 
+;    |.';  ; .   ; /--`  
+`----'  |  | ;   | ;     
+    '   :  ; |   : |     
+    |   |  ' .   | '___  
+    '   :  | '   ; : .'| 
+    ;   |.'  '   | '/  : 
+    '---'    |   :    /  
+              \   \ .'   
+               `---`     
+                         '
 url:                 http://lanyon.getpoole.com
 baseurl:             '/Coxts2-Portfolio'
 paginate:            5
