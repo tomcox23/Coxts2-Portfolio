@@ -63,9 +63,9 @@ Here are the deadlines we currently would like to meet:
 
 > We learnt that trying to have one dead line was not going to allow us to be agile. We implemented two deadlines. One set on each Monday to have all work submitted for review, which allowed us to check each other’s committed code for example. After a ticket has been moved to the review area on the Kanban board another team member would look at what they have submitted make sure it functions properly and make sure the code fits with our style. Here is an example of me doing this process. 
 
-***
+
 ![](code checking.png)
-***
+
 
 > Having these deadlines increased the teams time management and our own personal time management and allowed us to achieve Agile principle’s one “Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.”, two “Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.”, three “Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.” And eight “Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.”.
 
@@ -75,15 +75,15 @@ Here are the deadlines we currently would like to meet:
 
 > A personal development I made through this project experience would be the way commit my code. At the start I tended to do one big commit with everything done. This was generally poor practice on my behalf and I did get more regular at committing my work here is a comparison for how I committed at the start and towards our later sprints.
 
-***
+
 ![](commit-little.png)
-***
+
 
 > This shows I was committing work in one big commit which goes against agile principle’s one and three as mentions above. Committing regularly throughout your work ensures that you have back ups if something goes wrong and shows a progression of working software. This is an example of my later committing practices. 
 
-***
+
 ![](commit-more.png)
 ![](commit-moremore.png)
-***
+
 
 > My committing becomes much more consistent in smaller chucks which is a much better way to work. It shows that I am also regularly doing work and added useful additions to the software which means that if we were to show our clients what work has been done, we would have more to show them. 
