@@ -3,7 +3,7 @@ layout: post
 title: 	Professional Proficiency
 ---
 
-### My professional Proficiencies during the project
+### My Professional Proficiencies during the project
 
 > Throughout the semester tracker project, I have discovered a lot about how I really work in a team environment particularly when I am one of the least experienced or talented members within a team. I found this project very challenging as it was heavily based around html and php. Two subjects I have had no experience with especially php. As a result, I found myself guiltily letting other members do the harder tasks especially during sprints three to five. I did this because I thought I would be able to catch up to the others in terms of knowledge and ability so that I could be more useful later when the tasks became more and more challenging. This worked and didn’t work. 
 
