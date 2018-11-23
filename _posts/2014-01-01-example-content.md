@@ -26,13 +26,15 @@ title: Technical Proficiency
 
 ![](menufull.png)
 
-Orginal menu that highlights on hover and is visible when the screen size is over 800px. 
+> Orginal menu that highlights on hover and is visible when the screen size is over 800px. 
+
 ![](menusmall.png)
 
-The collapsed burger menu is visible when the screen size hits under 800px and removes the original menu. The page will take up the entire screen removing the big Margins. This makes it much more responsive on mobile and tablets.
+> The collapsed burger menu is visible when the screen size hits under 800px and removes the original menu. The page will take up the entire screen removing the big Margins. This makes it much more responsive on mobile and tablets.
+
 ![](menusmallout.png)
 
-Clicking the menu button animates a side revealing nav menu. I had started work on a script that would update both menus dynamically if new pages and links were added to either of the menu codes. Unfortunately, I did not have enough time to fully implement my script.
+> Clicking the menu button animates a side revealing nav menu. I had started work on a script that would update both menus dynamically if new pages and links were added to either of the menu codes. Unfortunately, I did not have enough time to fully implement my script.
 
 > I spent a lot of time understanding java script functions on my own which allowed me to create a simple calculator for a landscaping company. Although this a small task it was rewarding to be able to help someone with what I had taught myself. My calculator is below.
 
