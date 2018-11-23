@@ -3,120 +3,39 @@ layout: post
 title: Technical Proficiency	
 ---
 
+### My Technical Proficiencies during the project
 
-<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
+> During the semester tracker project, I learnt far more about html then I did during my web one paper. This style of learning as you build something really helped me to understand html and CSS. I certainly feel more confident working with in a web-based environment now. I felt I had understood what I had taught myself so much that out side of the project I even wrote a small html/java script function to calculate cubic metres for a landscaping company called Complete Landscapes. I have already been able to deploy the skills I’ve learnt in Software Engineering creating a small job for myself. 
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+> I was responsible for six tickets during the semester tracker project. Below is a summary of these tickets. Worth noting the responsive ticket did get finished and is technically two tickets put together. I just never closed it as there were a couple bugs that emerged due to its completion.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+![](ticket2.png)
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+![](tickets.png)
 
-## Inline HTML elements
+> I started out with the task of gathering helpful information for new and old lecturers that could be used by them as a reference incase they didn’t know or had forgot how to do common things such as how to mark attendance. I had to prepare a listen of questions or common issues lecturers have and present them in an FAQ style format on our website. I consaulted the clients about what issues they thought were important. I crafted an email out lining these issues in search of someone who could find answer them. I also asked each person I emailed to add any common issues they had when they started too. Getting back replies took much longer then expected which held me back a week of work meaning I had to rush to learn and create the FAQ page.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+> But after Joy gave me a good lead to folow up on I mannged to track someone down who could answer my questions. The email I received back was also forwarded to Elise who then let every team have access to it. I can only assume this was because my emailing and information gather skills were very good. 
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+> Creating the FAQ page was very rewarding for me and gave me a lot of confidence for future tasks. I was rather agile in the way I went about my first task as it involved writing html and java Script. I had written very basic html before but I knew this was not going to produce a high quality FAQ page. So I utilised a piece of code from a tutorial. This tutorial allowed me to create an accordion style drop down menu which is useful for toggling between hidden and visible content. The html and css to create the accordion was simple enough to understand. I was able to uses percentages in the width variable to allow my page to be responsive to different screen sizes. And a hover which made the panels change colour if the coursor was over it. Both of these things were completely new to me at this point. My next challenge was writing a java script function that would open and close the panels revealing and hiding the text. This mainly consisted of a for loop and a nested if/ else statement. I did have a more advance animation involving an icon which provided a visual que when opening and closing the menu but I was not able to figure out how to get it working. My FAQ system is shown below.
 
-Most of these elements are styled by browsers with few modifications on our part.
+![](FAQpage.png)
 
-## Heading
+> As apart of the responsive ticket I implement a system with java script and css that would allow the them interface to change when a screen become too small which made the orginal menu very squashed.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-### Code
+![](menufull.png)
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+Orginal menu that highlights on hover and is visible when the screen size is over 800px. 
+![](menusmall.png)
 
-{% highlight js %}
-// Example can be run directly in your JavaScript console
+The collapsed burger menu is visible when the screen size hits under 800px and removes the original menu. The page will take up the entire screen removing the big Margins. This makes it much more responsive on mobile and tablets.
+![](menusmallout.png)
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+Clicking the menu button animates a side revealing nav menu. I had started work on a script that would update both menus dynamically if new pages and links were added to either of the menu codes. Unfortunately, I did not have enough time to fully implement my script.
 
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
+> I spent a lot of time understanding java script functions on my own which allowed me to create a simple calculator for a landscaping company. Although this a small task it was rewarding to be able to help someone with what I had taught myself. My calculator is below.
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+![](calc.png)
 
-### Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+> Laravel was something I had to learn about outside of class. Laravel is a php framework which would allow us to use php, sql and other extensions in the website. We worked as team to install Laravel where I was useful because I had installed it before and was familiar working on a command line to install software. Although I was not tasked with any tickets that were heavily involved with php I was given the ticket to migrate the website over to the server. This involved using MAMP to host hour server instead of it being hosted on GitHub pages
