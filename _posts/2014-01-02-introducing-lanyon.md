@@ -11,11 +11,11 @@ title: 	Professional Proficiency
 
 > Reflecting on this I learnt an important lesson here about communication and conflict within a team. I mentioned to my team multiple times that we should try not make everything from scratch and that making the design responsive from the start would benefit us in the future. I brought this up multiple times during our first couple of scrums and bigger meetings where we discussed the design of the site. To my surprise the more capable members of the group proceeded to suggest hard coding the site in terms of width sizes and other variables and proceeded to do exactly that. This would contribute to the unresponsive state of our current site. Furthermore, it caused us to get less work done in the future because finding out why the site wasn’t responsive and fixing it took two sprints worth of problem solving. It also meant we didn’t have proper working software to show our customer.
 
->I realise now that I did not communicate very well to the other team members about this issue. Because html and php were completely new to me, I struggled to back up my reasons for wanting to do something a certain way. I found it difficult to present my ideas to certain members who were very smart but strongly opinionated, so I often did not speak my mind. I could have used slack to communicate how important it was to make a responsive site from the start. This would have allowed me to prepare a good statement and let it be seen by all members.
+> I realise now that I did not communicate very well to the other team members about this issue. Because html and php were completely new to me, I struggled to back up my reasons for wanting to do something a certain way. I found it difficult to present my ideas to certain members who were very smart but strongly opinionated, so I often did not speak my mind. I could have used slack to communicate how important it was to make a responsive site from the start. This would have allowed me to prepare a good statement and let it be seen by all members.
 
 Looking at our Sprint one retrospectives for example  
 
-#### What went well?
+### What went well?
 ***
 * Scrums- Timing and frequency seems to fit our schedules.
 * Everyone knew exactly what they needed to do. We had a meeting clarifying this near the start of the sprint.
